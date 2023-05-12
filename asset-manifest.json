@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DavideLuporini/portfolioweb/static/css/main.6e58049b.css",
+    "main.js": "/DavideLuporini/portfolioweb/static/js/main.b0ac18be.js",
+    "static/js/415.4d6acbeb.chunk.js": "/DavideLuporini/portfolioweb/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/DavideLuporini/portfolioweb/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Netflix.png": "/DavideLuporini/portfolioweb/static/media/Netflix.a33004b30c6ef26a9479.png",
+    "static/media/whatsapp.png": "/DavideLuporini/portfolioweb/static/media/whatsapp.b787ae6b4d6158889e08.png",
+    "static/media/Davide Luporini Curriculum.pdf": "/DavideLuporini/portfolioweb/static/media/Davide Luporini Curriculum.20ec3520bde3f159fc60.pdf",
+    "static/media/home-main.svg": "/DavideLuporini/portfolioweb/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/DavideLuporini/portfolioweb/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/DavideLuporini/portfolioweb/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/TodoList.PNG": "/DavideLuporini/portfolioweb/static/media/TodoList.9c10a7876e5b5bb15e72.PNG",
+    "static/media/avatar.svg": "/DavideLuporini/portfolioweb/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/DavideLuporini/portfolioweb/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/DavideLuporini/portfolioweb/index.html",
+    "main.6e58049b.css.map": "/DavideLuporini/portfolioweb/static/css/main.6e58049b.css.map",
+    "main.b0ac18be.js.map": "/DavideLuporini/portfolioweb/static/js/main.b0ac18be.js.map",
+    "415.4d6acbeb.chunk.js.map": "/DavideLuporini/portfolioweb/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/DavideLuporini/portfolioweb/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e58049b.css",
+    "static/js/main.b0ac18be.js"
+  ]
+}
